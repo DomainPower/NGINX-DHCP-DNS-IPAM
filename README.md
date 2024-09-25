@@ -1,9 +1,17 @@
-![微信截图_20231109151459 ]（https://github.com/DomainPower/NGINX-DHCP-DNS-IPAM/assets/149857497/435be9f3-db7b-46d5-aeef-6b467a5ca1c4）![正在上传微信截图_20231109151459.png… ] ( )
+想要查看demo测试页面，请加v：displaymylife或者qq 11324002
 
-
-![微信截图_20231109151511 ]（https://github.com/DomainPower/NGINX-DHCP-DNS-IPAM/assets/149857497/53a5274c-80b0-4e8f-8f68-9fcee0fcaaf2）
-
-
-
-
-！[图片]（https://github.com/DomainPower/NGINX-DHCP-DNS-IPAM/assets/149857497/f8a3c8c9-7385-4db5-ad89-6fbb31cb8206 ）
+![微信截图_20240925113652](https://github.com/user-attachments/assets/9fc93176-39bd-4414-97ac-e91bb7cb7498)
+![微信截图_20240925113620](https://github.com/user-attachments/assets/ea9aed79-f807-45ef-b000-8e3b3816101f)
+![微信截图_20240925113559](https://github.com/user-attachments/assets/9a65de26-5962-4e07-9206-0562c123f873)
+![微信截图_20240925113550](https://github.com/user-attachments/assets/1c7005b5-9d64-49c7-97e7-280e9dd24622)
+![微信截图_20240925113538](https://github.com/user-attachments/assets/eb811e47-671d-4277-9b64-1ca8279725fc)
+![微信截图_20240925113524](https://github.com/user-attachments/assets/36b792c8-2b09-4297-9421-d0b7e6c10524)
+![微信截图_20240925113512](https://github.com/user-attachments/assets/2a983267-921c-45c3-acc1-bae00a9913ef)
+![微信截图_20240925113431](https://github.com/user-attachments/assets/e00bb852-d5de-4aeb-9a5e-00f747db1cb8)
+![微信截图_20240925113421](https://github.com/user-attachments/assets/2f1f35f4-d6f6-420e-a864-104949ae31c0)
+![微信截图_20240925113408](https://github.com/user-attachments/assets/5d2a0fe9-65bf-446d-bf72-0ea9092a6e22)
+![微信截图_20240925113340](https://github.com/user-attachments/assets/205dc49d-5e0e-4bd7-b8a3-9da7d2f805e8)
+![微信截图_20240925113332](https://github.com/user-attachments/assets/e3c0c92e-ce1c-47ca-9771-7fdb0095ea5d)
+![微信截图_20240925113322](https://github.com/user-attachments/assets/ed1b9e10-bff0-4362-8a05-27997e151cea)
+![微信截图_20240925113311](https://github.com/user-attachments/assets/9debfa30-b4ca-48dd-b9bf-60047ec637ef)
+![微信截图_20240925113257](https://github.com/user-attachments/assets/40edbb56-a861-41f1-99b7-4b4c65088c76)
